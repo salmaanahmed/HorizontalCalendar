@@ -12,13 +12,14 @@ Horizontal week view calendar for iOS just like apple calendar
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Demo
-<br>
-<img height="600" src="https://github.com/salmaanahmed/HorizontalCalendar/blob/master/Calendar.png" />
-<br>
 
 Horizontal Calendar is a great way to show schedules for mobile apps. Mobile screens are small and minimalistic and these kind of modern designs are necessary.
 This calendar is endlessly swipeable keeping the performance intact. User can select any date with ease of going back to today with a single click.
 Collapse view for this calendar is also very useful to save space which can be done by single tap on date or arrow.
+
+<br>
+<img height="600" src="https://github.com/salmaanahmed/HorizontalCalendar/blob/master/Calendar.png" />
+<br>
 
 ## Usage
 
